@@ -131,7 +131,9 @@ int welcome() {
         
     else if (que_fr == "earth"){}
         
-    if (
+    if (race == "knight") {
+        cout << "you are from the city of KNIGHTS GLADITOR";
+        
      
         
         
