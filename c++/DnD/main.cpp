@@ -83,7 +83,7 @@ int welcome() {
 
     // race input
     string race;
-    cout << "what is your race gonna be knights or wizard/witches: \n"<< endl;
+    cout << "what is your race gonna be knights,wizard/witches,elves,beast: \n"<< endl;
     cin >> race;
     cout << "ok " << name << " "<< endl;
     cout << "you are a " << race << "\n"<< endl;
@@ -92,7 +92,7 @@ int welcome() {
     string wizard = "wizard";
 
     string que;
-
+    // if race input = wizard
     if (race == wizard )  {
         cout << " you are from the city of wizardy and witchcraft"<< endl;
         cout << "you got a recommendation in a guild of the wizard and witches"<< endl;
@@ -131,6 +131,7 @@ int welcome() {
         
     else if (que_fr == "earth"){}
         
+    if (
      
         
         
