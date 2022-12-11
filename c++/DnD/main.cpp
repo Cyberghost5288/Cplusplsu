@@ -118,24 +118,7 @@ int welcome() {
         cout << " go for a mission or story line ";
         return 0;
     }
-    while (que != yes) {
-        cout << "are you sure?";
-         cout << " do you want to go to the guild or continue learning magic at the academy " << name << endl;
-        
-    else if (que_fr == "fire", ){}
-        
-        
-    else if (que_fr == "water"){}
-        
-    else if (que_fr == "lightning"){}
-        
-    else if (que_fr == "earth"){}
-        
-    if (race == "knight") {
-        cout << "you are from the city of KNIGHTS GLADITOR";
-        
-     
-        
+   
         
     return 0;
 }
